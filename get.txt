@@ -1,0 +1,8 @@
+1、a标签要实现单击链接后在新的浏览窗口显示目标页面，就要使用target属性。
+target属性有4个值，_blank, _self, _top, _parent。HTML5中只支持_blank,_self两个值，其中_blank表示在新的窗口中显示超链接页面。_self表示在当前窗口中显示超链接页面。当省略target属性时，默认取值为_self。
+
+2、table表格合并就给td加上属性，上下合并rowspan=“数值”，左右合并colspan=“数值”。
+
+3、select下拉菜单 textarea多行输入不用input
+
+4、版权符号?是alt按住不放再按数字键盘那边169，松开alt就有了?
